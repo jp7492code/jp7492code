@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnathan
 - 👀 I’m interested in obtaining an internship as a software engineer.
-- 🌱 I’m currently learning computer science at the University of California, Riverside.
+- 🌱 I’m currently learning computer science at University of California, Riverside.
 - 💞️ I’m looking to collaborate on software engineering team projects.
 - 📫 How to reach me, jpham799@gmail.com.
 
