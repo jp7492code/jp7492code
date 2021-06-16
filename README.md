@@ -2,7 +2,6 @@
 - 👀 I’m interested in obtaining an job as a software engineer.
 - 🌱 I’m currently pursuing a Bachelor's Degree in Computer Science at University of California, Riverside.
 - 💞️ I’m looking to collaborate on software engineering team projects.
-- 📫 How to reach me, jpham799@gmail.com.
 
 <!---
 jp7492code/jp7492code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
