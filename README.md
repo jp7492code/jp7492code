@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnathan
-- 👀 I’m interested in obtaining an job as a software engineer.
+- 👀 I’m interested in obtaining an job as a software engineer intern.
 - 🌱 I’m currently pursuing a Bachelor's Degree in Computer Science at University of California, Riverside.
 - 💞️ I’m looking to collaborate on software engineering team projects.
 
