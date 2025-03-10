@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnathan
-- 🌱 I’m currently pursuing a Bachelor's Degree in Computer Science at San Diego State University.
+- 🌱 I’m have a Bachelor's Degree in Computer Science at San Diego State University.
 - 💞️ I like to collaborate on team projects.
 
 <!---
